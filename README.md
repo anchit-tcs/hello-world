@@ -1,2 +1,2 @@
 # hello-world
-# Trail run TrialTeam on Slack
+# First trail run by TrialTeam on Slack
